@@ -1,14 +1,3 @@
-# COE2SH4 - Course Project Template
-Course Project
+Snake game made with Yash Panchal in for our COMP ENG 2SH4! 
 
-You must watch the briefing video and read through the manual to engage in the development activities.
-
-
-Section: C01
-
-Team Information
-Member 1 MacID: pates302
-Member 1 StudentID: 400530101
-
-Member 2 MacID: panchay
-Member 2 StudentID: 400506904
+To play the game, download/clone the repository into GitHub and in the correct directory, "make" the game (in the terminal) and then execute the file using "./*Project.exe" if using Windows or "./Project" if using MacOS!
